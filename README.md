@@ -83,10 +83,6 @@ We welcome contributions to the Sam Trust Crowdfunding project! If you'd like to
 3.  Make your changes and commit them with clear, concise messages.
 4.  Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
-For questions or inquiries, please contact [your_email@example.com].
+For questions or inquiries, please contact abrahamsamuel562004@gmail.com
